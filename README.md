@@ -27,7 +27,7 @@ Run `npm run build` to generate the static `dist` folder. Relative asset paths s
 
 ## Content and credits
 
-Concept and design direction: Giorgi Aplakov. Implementation and initial educational text developed with AI assistance. Review educational content and test with readers before sharing widely.
+Concept and design direction: Giorgi Aplakov. Review educational content and test with readers before sharing widely.
 
 Portraits load from Wikimedia Commons and require internet access. Image credits and biography references appear in each profile. Early figures are shown in historical paintings rather than photographs.
 
